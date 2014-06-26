@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>json-stringify-safe</artifactId>
-    <version>5.0.0</version>
+    <version>5.0.1-SNAPSHOT</version>
     <name>json-stringify-safe</name>
     <description>WebJar for json-stringify-safe</description>
     <url>http://webjars.org</url>
@@ -28,7 +28,7 @@
         <url>https://github.com/webjars/json-stringify-safe</url>
         <connection>scm:git:https://github.com/webjars/json-stringify-safe.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/json-stringify-safe.git</developerConnection>
-        <tag>json-stringify-safe-5.0.0</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <developers>
